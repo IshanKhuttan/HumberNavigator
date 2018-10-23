@@ -22,6 +22,7 @@ Here is the Project Schedule/Gantt Chart for the project:
 
 # Week2-Sept11
 The Proposal of the project is given below:
+
 ![week2](https://user-images.githubusercontent.com/43187006/47384830-69224880-d6d6-11e8-97e9-42d2c19a7625.PNG)
 
 
