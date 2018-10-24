@@ -1,9 +1,20 @@
 
+# Week8-Oct23 
+In this week made the connection of the senor(BME280) with the arduino(STM32F103C8T6). And did the fritzing.
+![img20181023181129](https://user-images.githubusercontent.com/43187006/47398065-4e64c980-d700-11e8-8845-140383855766.jpg)
+![fritzing](https://user-images.githubusercontent.com/43187006/47397973-d1395480-d6ff-11e8-94ba-ef35f0b8f2c2.PNG)
+![schematic](https://user-images.githubusercontent.com/43187006/47398280-6d179000-d701-11e8-9b5c-c245c7c5c796.PNG)
+
+
+
 # Week7-Oct16
-Recieved all the parts and soldered the sensors.
+Recieved all the parts and soldered the sensor.
+![soldering](https://user-images.githubusercontent.com/43187006/47397752-b3b7bb00-d6fe-11e8-9e4c-d51fe6e49984.PNG)
 
 # Week6-Oct09
 This week I worked on the pseudo codes and UML diagram of the project.
+![uml](https://user-images.githubusercontent.com/43187006/47397700-810dc280-d6fe-11e8-89f4-6673c1096304.PNG)
+
 
 # Week5-Oct05
 These are the invoices of my purchases.
