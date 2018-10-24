@@ -9,6 +9,7 @@ In this week made the connection of the senor(BME280) with the arduino(STM32F103
 
 # Week7-Oct16
 Recieved all the parts and soldered the sensor.
+
 ![soldering](https://user-images.githubusercontent.com/43187006/47397752-b3b7bb00-d6fe-11e8-9e4c-d51fe6e49984.PNG)
 
 # Week6-Oct09
