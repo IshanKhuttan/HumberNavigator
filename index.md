@@ -1,5 +1,5 @@
 # Week11-Nov11
-This week I programmed my stm32. I got my sensor(Bmp280) code working and the display(1.8 TFT ST7735) running) properly.
+This week I programmed my stm32. I got my sensor(Bmp280) code working and the display(1.8 TFT ST7735) running) properly. Everything is working perfect. But the it is on the Breadboard not on PCB. Because I have to make some changes on the PCB yet.
 ![img20181113182718](https://user-images.githubusercontent.com/43187006/48524750-91254780-e84f-11e8-948d-13e60074ca6e.jpg)
 
 The reading from my sensor:
@@ -13,7 +13,7 @@ In this week made the desin of PCB.
 
 
 # Week8-Oct23 
-In this week made the connection of the senor(BME280) with the arduino(STM32F103C8T6). And did the fritzing.
+In this week made the connection of the senor(BME280) with the arduino(STM32F103C8T6). And did the fritzing. I made the breadborad circuit.
 ![img20181023181129](https://user-images.githubusercontent.com/43187006/47398065-4e64c980-d700-11e8-8845-140383855766.jpg)
 ![fritzing](https://user-images.githubusercontent.com/43187006/47397973-d1395480-d6ff-11e8-94ba-ef35f0b8f2c2.PNG)
 ![schematic](https://user-images.githubusercontent.com/43187006/47398280-6d179000-d701-11e8-9b5c-c245c7c5c796.PNG)
