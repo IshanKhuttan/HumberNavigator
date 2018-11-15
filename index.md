@@ -1,3 +1,11 @@
+# Week11-Nov11
+This week I programmed my stm32. I got my sensor(Bmp280) code working and the display(1.8 TFT ST7735) running) properly.
+![img20181113182718](https://user-images.githubusercontent.com/43187006/48524750-91254780-e84f-11e8-948d-13e60074ca6e.jpg)
+
+The reading from my sensor:
+![img20181113165252](https://user-images.githubusercontent.com/43187006/48524951-40fab500-e850-11e8-8ca0-16cc8dde1ad5.jpg)
+
+# Week10-Nov06
 
 # Week9-Oct30
 In this week made the desin of PCB. 
