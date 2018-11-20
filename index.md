@@ -1,22 +1,22 @@
 # Week12-Nov20
-This week I have to redesign my PCB because the PCB in week9 was faulty. The fault was that I used wrong arduino in fritzing, now I have used the right one for my fritzing. After getting the correct arduino I made the PCB design again and sent it to prototype lab to get it done. My sensor, arduino and the programmer is gonna be on one side of the pcb and the display is on the other side.
+This week I have to redesign my PCB because the PCB in week9 was faulty. The fault was that I used wrong STM32 footprint in fritzing, now I have used the right one for my fritzing file. After getting the correct footprint I made the PCB design again and sent it to prototype lab to get it made. My sensor, arduino and the programmer is going to be on one side of the PCB and the display is on the other side.
 ![pcb](https://user-images.githubusercontent.com/43187006/48806878-ca473700-ece9-11e8-9200-cdf7247a5e66.jpg)
-And here are the connections that i have used in my circuit.
+And here are the connections that I have used in my circuit.
 
 ![capture](https://user-images.githubusercontent.com/43187006/48807126-928cbf00-ecea-11e8-8c5a-83ce29a1ac1f.PNG)
 
 
 # Week11-Nov13
-This week I programmed my stm32. I got my sensor(Bmp280) code working and the display(1.8 TFT ST7735) working properly. Everything is working perfect. But the it is on the Breadboard not on PCB. Because I have to make some changes on the PCB yet. As it was very difficult to find the connections for my arduino. Now I have to design my PCB as the breadboard connections are working. 
+This week I programmed my stm32. I got my sensor(Bmp280) code working and the display(1.8 TFT ST7735) working properly. Everything is working perfectly. But the it is on the Breadboard not on PCB. Because I have to make some changes on the PCB yet. As it was very difficult to find the connections for my arduino. Now I have to design my PCB as the breadboard connections are working. 
 ![img20181113182718](https://user-images.githubusercontent.com/43187006/48524750-91254780-e84f-11e8-948d-13e60074ca6e.jpg)
 
 The reading from my sensor(BMP280):
 ![img20181113165252](https://user-images.githubusercontent.com/43187006/48524951-40fab500-e850-11e8-8ca0-16cc8dde1ad5.jpg)
 
 # Week10-Nov06
-In this week, I worked on making cicuit on my breadboard and redesigned the pcb beacause there were some troubles in it. I have connected my 1.8 TFT display in my cicuit. I tried on power it up but it did not worked as there was some problem in the codes. I have tried to find some libraries for my sensor. As all other students worked on pcb soldering, I could not do it as I still have to add some things in my PCB.
+In this week, I worked on making the circuit on my breadboard and redesigned the PCB beacause there were some issues with it. I have connected my 1.8 TFT display in my cicuit. I tried to power it up but it did not work as there was some problem in the code. I have tried to find some libraries for my sensor. As all other students worked on PCB soldering, I could not do it as I still have to add some things in my PCB.
 # Week9-Oct30
-In this week made the desin of PCB. But it is not the correct. As the connections of the breadboard are not correct yet.  
+In this week made the design of the PCB but it is not correct. As the connections of the breadboard are not correct yet.  
 ![untitled sketch_pcb](https://user-images.githubusercontent.com/43187006/47760656-c2b4e500-dc8b-11e8-9a26-4d0bf8806cc0.png)
 
 
