@@ -1,4 +1,4 @@
-# Week12-Nov12
+# Week12-Nov18
 This week I have finally redesigned my PCB after so many problems as the. And i have sent it to prototype lab to get it done. My sensor, arduino and the programmer is gonna be on one side of the pcb and the display is on the other side.
 ![pcb](https://user-images.githubusercontent.com/43187006/48806878-ca473700-ece9-11e8-9200-cdf7247a5e66.jpg)
 And here are the connections that i have used in my circuit.
