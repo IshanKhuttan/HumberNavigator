@@ -1,5 +1,5 @@
 # Week12-Nov18
-This week I have finally redesigned my PCB after so many problems as the. And i have sent it to prototype lab to get it done. My sensor, arduino and the programmer is gonna be on one side of the pcb and the display is on the other side.
+This week I have to redesign my PCB because the PCB in week9 was faulty. The fault was that I used wrong arduino in fritzing, now I have used the right one for my fritzing. After getting the correct arduino I made the PCB design again and sent it to prototype lab to get it done. My sensor, arduino and the programmer is gonna be on one side of the pcb and the display is on the other side.
 ![pcb](https://user-images.githubusercontent.com/43187006/48806878-ca473700-ece9-11e8-9200-cdf7247a5e66.jpg)
 And here are the connections that i have used in my circuit.
 
@@ -16,7 +16,7 @@ The reading from my sensor(BMP280):
 # Week10-Nov06
 In this week, I worked on making cicuit on my breadboard and redesigned the pcb beacause there were some troubles in it. I have connected my 1.8 TFT display in my cicuit. I tried on power it up but it did not worked as there was some problem in the codes. I have tried to find some libraries for my sensor. As all other students worked on pcb soldering, I could not do it as I still have to add some things in my PCB.
 # Week9-Oct30
-In this week made the desin of PCB. 
+In this week made the desin of PCB. But it is not the correct. As the connections of the breadboard are not correct yet.  
 ![untitled sketch_pcb](https://user-images.githubusercontent.com/43187006/47760656-c2b4e500-dc8b-11e8-9a26-4d0bf8806cc0.png)
 
 
