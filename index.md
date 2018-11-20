@@ -2,6 +2,7 @@
 This week I have finally designed my PCB after so many problems. And i have sent it to prototype lab to get it done. My sensor, arduino and the programmer is gonna be on one side of the pcb and the display is on the other side.
 ![pcb](https://user-images.githubusercontent.com/43187006/48806878-ca473700-ece9-11e8-9200-cdf7247a5e66.jpg)
 And here are the connections that i have used in my circuit.
+
 ![capture](https://user-images.githubusercontent.com/43187006/48807126-928cbf00-ecea-11e8-8c5a-83ce29a1ac1f.PNG)
 
 
