@@ -7,7 +7,7 @@ And here are the connections that i have used in my circuit.
 
 
 # Week11-Nov11
-This week I programmed my stm32. I got my sensor(Bmp280) code working and the display(1.8 TFT ST7735) running) properly. Everything is working perfect. But the it is on the Breadboard not on PCB. Because I have to make some changes on the PCB yet.
+This week I programmed my stm32. I got my sensor(Bmp280) code working and the display(1.8 TFT ST7735) working properly. Everything is working perfect. But the it is on the Breadboard not on PCB. Because I have to make some changes on the PCB yet. As it was very difficult to find the connections for my arduino. Now I have to design my PCB as the breadboard connections are working. 
 ![img20181113182718](https://user-images.githubusercontent.com/43187006/48524750-91254780-e84f-11e8-948d-13e60074ca6e.jpg)
 
 The reading from my sensor(BMP280):
