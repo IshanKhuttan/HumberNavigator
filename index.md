@@ -1,3 +1,7 @@
+# Week13-Nov27
+In this week I have soldered my PCB using header pins. But I found out that the PCB is faulty as I have to change the traces for top and bottom in the PCB. So I have to redesign the PCB again and soldered it.
+![whatsapp image 2018-11-27 at 3 39 23 pm](https://user-images.githubusercontent.com/43187006/49110891-adb47d00-f25c-11e8-9fe2-91f7fa3ed126.jpeg)
+![whatsapp image 2018-11-27 at 3 38 07 pm](https://user-images.githubusercontent.com/43187006/49110898-b0af6d80-f25c-11e8-99bd-18dafb91a709.jpeg)
 # Week12-Nov20
 This week I have to redesign my PCB because the PCB in week9 was faulty. The fault was that I used wrong STM32 footprint in fritzing, now I have used the right one for my fritzing file. After getting the correct footprint I made the PCB design again and sent it to prototype lab to get it made. My sensor, arduino and the programmer is going to be on one side of the PCB and the display is on the other side.
 ![pcb](https://user-images.githubusercontent.com/43187006/48806878-ca473700-ece9-11e8-9200-cdf7247a5e66.jpg)
@@ -54,7 +58,8 @@ Here is the Project Schedule/Gantt Chart for the project:
 ![schedule](https://user-images.githubusercontent.com/43187006/47384705-06c94800-d6d6-11e8-94b5-8812102553f1.PNG)
 
 # Week2-Sept11
-The Proposal of the project is given below:
+The <a href="[Proposal.xlsx](https://github.com/IshanKhuttan/HumberNavigator/files/2621878/Proposal.xlsx)
+" > </a>Proposal of the project is given below:
 
 ![week2](https://user-images.githubusercontent.com/43187006/47384830-69224880-d6d6-11e8-97e9-42d2c19a7625.PNG)
 
