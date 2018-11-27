@@ -49,8 +49,9 @@ These are the invoices of my purchases.
 ![capture3](https://user-images.githubusercontent.com/43187006/46379402-af9efd00-c66c-11e8-85bc-88a417ab023b.PNG)
 
 # Week4-Sept25
-Here is the Budget for my Project:
-[![budget](https://user-images.githubusercontent.com/43187006/47385063-02515f00-d6d7-11e8-813c-e31bbc4ff7d2.PNG)]((https://github.com/IshanKhuttan/HumberNavigator/files/2622176/Budget.xlsx)
+Here is the [Budget](https://github.com/IshanKhuttan/HumberNavigator/files/2622176/Budget.xlsx)
+ for my Project:
+[![budget](https://user-images.githubusercontent.com/43187006/47385063-02515f00-d6d7-11e8-813c-e31bbc4ff7d2.PNG)]
 
 
 
