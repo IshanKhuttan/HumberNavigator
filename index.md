@@ -2,6 +2,10 @@
 In this week I have soldered my PCB using header pins. But I found out that the PCB is faulty as I have to change the traces for top and bottom in the PCB. So I have to redesign the PCB again and soldered it. And also I have made the [PPT](https://github.com/IshanKhuttan/HumberNavigator/files/2622188/Presentation.pptx).
 ![whatsapp image 2018-11-27 at 3 39 23 pm](https://user-images.githubusercontent.com/43187006/49110891-adb47d00-f25c-11e8-9fe2-91f7fa3ed126.jpeg)
 ![whatsapp image 2018-11-27 at 3 38 07 pm](https://user-images.githubusercontent.com/43187006/49110898-b0af6d80-f25c-11e8-99bd-18dafb91a709.jpeg)
+Also I have redesigned the PCB again.
+![fritzing_pcb](https://user-images.githubusercontent.com/43187006/49117895-4f919500-f270-11e8-940f-3845cfd1bd54.png)
+
+
 # Week12-Nov20
 This week I have to redesign my PCB because the PCB in week9 was faulty. The fault was that I used wrong STM32 footprint in fritzing, now I have used the right one for my fritzing file. After getting the correct footprint I made the PCB design again and sent it to prototype lab to get it made. My sensor, arduino and the programmer is going to be on one side of the PCB and the display is on the other side.
 ![pcb](https://user-images.githubusercontent.com/43187006/48806878-ca473700-ece9-11e8-9200-cdf7247a5e66.jpg)
