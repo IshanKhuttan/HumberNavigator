@@ -50,7 +50,8 @@ These are the invoices of my purchases.
 
 # Week4-Sept25
 Here is the Budget for my Project:
-![budget](https://user-images.githubusercontent.com/43187006/47385063-02515f00-d6d7-11e8-813c-e31bbc4ff7d2.PNG)
+[![budget](https://user-images.githubusercontent.com/43187006/47385063-02515f00-d6d7-11e8-813c-e31bbc4ff7d2.PNG)]((https://github.com/IshanKhuttan/HumberNavigator/files/2622176/Budget.xlsx)
+
 
 
 # Week3-Sept18
