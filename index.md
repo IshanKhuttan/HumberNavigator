@@ -58,8 +58,9 @@ Here is the Project Schedule/Gantt Chart for the project:
 ![schedule](https://user-images.githubusercontent.com/43187006/47384705-06c94800-d6d6-11e8-94b5-8812102553f1.PNG)
 
 # Week2-Sept11
-The <a href="[Proposal.xlsx](https://github.com/IshanKhuttan/HumberNavigator/files/2621878/Proposal.xlsx)
-" > </a>Proposal of the project is given below:
+[Proposal.xlsx](https://github.com/IshanKhuttan/HumberNavigator/files/2621878/Proposal.xlsx)
+
+</a>Proposal of the project is given below:
 
 ![week2](https://user-images.githubusercontent.com/43187006/47384830-69224880-d6d6-11e8-97e9-42d2c19a7625.PNG)
 
