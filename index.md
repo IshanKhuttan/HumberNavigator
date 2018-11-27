@@ -1,5 +1,5 @@
 # Week13-Nov27
-In this week I have soldered my PCB using header pins. But I found out that the PCB is faulty as I have to change the traces for top and bottom in the PCB. So I have to redesign the PCB again and soldered it.
+In this week I have soldered my PCB using header pins. But I found out that the PCB is faulty as I have to change the traces for top and bottom in the PCB. So I have to redesign the PCB again and soldered it. And also I have made the [PPT]([Presentation.pptx](https://github.com/IshanKhuttan/HumberNavigator/files/2622188/Presentation.pptx))
 ![whatsapp image 2018-11-27 at 3 39 23 pm](https://user-images.githubusercontent.com/43187006/49110891-adb47d00-f25c-11e8-9fe2-91f7fa3ed126.jpeg)
 ![whatsapp image 2018-11-27 at 3 38 07 pm](https://user-images.githubusercontent.com/43187006/49110898-b0af6d80-f25c-11e8-99bd-18dafb91a709.jpeg)
 # Week12-Nov20
