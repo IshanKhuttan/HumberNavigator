@@ -9,6 +9,9 @@ In this week I have soldered my PCB using header pins. But I found out that the 
 ![whatsapp image 2018-11-27 at 3 38 07 pm](https://user-images.githubusercontent.com/43187006/49110898-b0af6d80-f25c-11e8-99bd-18dafb91a709.jpeg)
 Also I have redesigned the PCB again.
 ![fritzing_pcb](https://user-images.githubusercontent.com/43187006/49117895-4f919500-f270-11e8-940f-3845cfd1bd54.png)
+Here is the Frtizing of all the hardware I have used. In the old fritzing I did not had the components.
+![frit](https://user-images.githubusercontent.com/43187006/49403199-15b20a00-f71a-11e8-8b8a-0044438ccf08.png)
+
 
 
 # Week12-Nov20
