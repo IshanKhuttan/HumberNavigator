@@ -1,5 +1,10 @@
+# Week14-Dec03
+#### Progress Report
+In this week enclosed the case with the hardware and check the connections if they are working. Everything is working good. And this week the presentation is due. 
+
+
 # Week13-Nov27
-In this week I have soldered my PCB using header pins. But I found out that the PCB is faulty as I have to change the traces for top and bottom in the PCB. So I have to redesign the PCB again and soldered it. And also I have made the [PPT](https://github.com/IshanKhuttan/HumberNavigator/files/2622188/Presentation.pptx).
+In this week I have soldered my PCB using header pins. But I found out that the PCB is faulty as I have to change the traces for top and bottom in the PCB. So I have to redesign the PCB again and soldered it. Also Designed the case for the presentation .And also I have made the [PPT](https://github.com/IshanKhuttan/HumberNavigator/files/2622188/Presentation.pptx).
 ![whatsapp image 2018-11-27 at 3 39 23 pm](https://user-images.githubusercontent.com/43187006/49110891-adb47d00-f25c-11e8-9fe2-91f7fa3ed126.jpeg)
 ![whatsapp image 2018-11-27 at 3 38 07 pm](https://user-images.githubusercontent.com/43187006/49110898-b0af6d80-f25c-11e8-99bd-18dafb91a709.jpeg)
 Also I have redesigned the PCB again.
@@ -15,7 +20,7 @@ And here are the connections that I have used in my circuit.
 
 
 # Week11-Nov13
-This week I programmed my stm32. I got my sensor(Bmp280) code working and the display(1.8 TFT ST7735) working properly. Everything is working perfectly. But the it is on the Breadboard not on PCB. Because I have to make some changes on the PCB yet. As it was very difficult to find the connections for my arduino. Now I have to design my PCB as the breadboard connections are working. 
+This week I programmed my STM32. I got my sensor(Bmp280) code working and the display(1.8 TFT ST7735) working properly. Everything is working perfectly. But the it is on the Breadboard not on PCB. Because I have to make some changes on the PCB yet. As it was very difficult to find the connections for my arduino. Now I have to design my PCB as the breadboard connections are working. 
 ![img20181113182718](https://user-images.githubusercontent.com/43187006/48524750-91254780-e84f-11e8-948d-13e60074ca6e.jpg)
 
 The reading from my sensor(BMP280):
