@@ -1,7 +1,9 @@
 # Week14-Dec03
 #### Progress Report
-In this week enclosed the case with the hardware and check the connections if they are working. Everything is working good. And this week the presentation is due. 
-
+In this week enclosed the case with the hardware and check the connections if they are working. Everything is working good. And this week the presentation is due.
+![whatsapp image 2018-12-03 at 6 16 06 pm](https://user-images.githubusercontent.com/43187006/49408420-308c7a80-f72a-11e8-9fc6-ab6d096bed85.jpeg)
+![whatsapp image 2018-12-03 at 6 16 10 pm](https://user-images.githubusercontent.com/43187006/49408421-31251100-f72a-11e8-9847-e8943458ab13.jpeg)
+![whatsapp image 2018-12-03 at 6 17 31 pm](https://user-images.githubusercontent.com/43187006/49408422-31251100-f72a-11e8-9022-ca164ae2fd0d.jpeg)
 
 # Week13-Nov27
 In this week I have soldered my PCB using header pins. But I found out that the PCB is faulty as I have to change the traces for top and bottom in the PCB. So I have to redesign the PCB again and soldered it. Also Designed the case for the presentation .And also I have made the [PPT](https://github.com/IshanKhuttan/HumberNavigator/files/2622188/Presentation.pptx).
