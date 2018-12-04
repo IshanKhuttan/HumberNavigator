@@ -1,0 +1,42 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=fritzing
+*Date=15:50:21
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;68.5662;-30.4686;0;Bottom;Via56
+2;;;22.8095;-10.3436;0;Bottom;Via39
+3;;;22.7948;-30.4592;0;Bottom;Via20
+4;;;22.7948;-15.2192;0;Bottom;Via23
+5;;;38.1048;-40.68;0;Bottom;Via52
+6;;;30.4148;-25.3792;0;Bottom;Via26
+7;;;83.7969;-22.8533;0;Bottom;Via60
+8;;;52.1977;-31.7859;0;Bottom;LCD
+9;;;2.47471;-60.9392;0;Bottom;Hole3
+10;;;81.2147;-60.9392;0;Bottom;Hole1
+11;;;27.8748;-40.6192;0;Bottom;Via17
+12;;;32.9548;-48.2392;0;Bottom;Via28
+13;;;60.951;-30.4686;0;Bottom;Via53
+14;;;13.2698;-43.1592;-90;Bottom;Bmp280
+15;;;22.7948;-17.9474;0;Bottom;Via22
+16;;;70.816;-35.6608;0;Bottom;Via59
+17;;molex-1x6_lock;12.3808;-19.0292;-90;Bottom;Programmer
+18;;;27.8748;-12.6792;0;Bottom;Via24
+19;;;65.97;-33.0647;0;Bottom;Via55
+20;;;81.2147;-2.51932;0;Bottom;Hole2
+21;;;63.2008;-35.4878;0;Bottom;Via54
+22;;;50.7348;-31.7292;180;Bottom;Part1
+23;;;30.4148;-43.1592;0;Bottom;Via27
+24;;;65.97;-40.68;0;Bottom;Via58
+25;;;2.47471;-2.51932;0;Bottom;Hole4
+26;;;38.0433;-17.7261;0;Bottom;Via31
+27;;;32.9548;-22.8392;0;Bottom;Via25
