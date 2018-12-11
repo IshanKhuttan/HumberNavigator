@@ -39,7 +39,7 @@ In this week made the design of the PCB but it is not correct. As the connection
 
 
 # Week8-Oct23 
-In this week made the connection of the senor(BME280) with the arduino(STM32F103C8T6). And did the fritzing. I made the breadborad circuit.
+In this week made the connection of the senor(BMP280) with the arduino(STM32F103C8T6). And did the fritzing. I made the breadborad circuit.
 ![img20181023181129](https://user-images.githubusercontent.com/43187006/47398065-4e64c980-d700-11e8-8845-140383855766.jpg)
 ![fritzing](https://user-images.githubusercontent.com/43187006/47397973-d1395480-d6ff-11e8-94ba-ef35f0b8f2c2.PNG)
 ![schematic](https://user-images.githubusercontent.com/43187006/47398280-6d179000-d701-11e8-9b5c-c245c7c5c796.PNG)
