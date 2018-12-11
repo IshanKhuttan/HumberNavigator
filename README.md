@@ -6,6 +6,28 @@
 
 - [Introduction](#Introduction)
 
+- [UML Diagram](#UML-Diagram)
+
+- [Functionality](#Functionality)
+
+- [Build Materials and Budget](#Build-materials-and-Budget)
+
+- [Time Commitment](#time-commitment)
+
+- [Mechanical Assembly](#Mechanical-Assembly)
+
+- [PCB and Soldering](#pcb-and-soldering)
+
+- [Powering Up Device](#powering-up-device)
+
+- [The Software](#the-software)
+
+- [Testing](#testing)
+
+- [Finished Product](#finished-product)
+
+- [Resources](#resources)
+
 <br />
 
 ## Introduction
