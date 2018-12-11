@@ -8,8 +8,6 @@
 
 - [UML Diagram](#UML-Diagram)
 
-- [Functionality](#Functionality)
-
 - [Build Materials and Budget](#Build-materials-and-Budget)
 
 - [Time Commitment](#Time-Commitment)
@@ -49,6 +47,16 @@ This schedule uses a weekly breakdown that follows the CENG 317 class schedule f
 
 
 ## Mechanical-Assembly
+For making the hardware working perfectly we have to follow these instructions:
+
+1. First we have to blink the LED of STM32 in order to check that the arduino is working properly.
+
+2. For Uploading the codes we have to download the Arduino IDE. Then go to Tools > Boards > Boards Manager, the search the STM32 and install it. ![image](https://user-images.githubusercontent.com/43187006/49835442-30fdc480-fd6d-11e8-82b2-bf26bf93af16.png)
+
+3. Then we need a FTDI USB to TTL Serial converter for uploading the code on the STM32 using a usb cable.
+
+4. After making the connections we have to go to File > Examples > Basics > Blink, to get ino files needed for blinking and change the pin number. ![image](https://user-images.githubusercontent.com/43187006/49835951-ec732880-fd6e-11e8-8934-151a5b0cfc7e.png)
+ 
 
 
 # HumberNavigator
