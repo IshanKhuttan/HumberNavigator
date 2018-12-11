@@ -74,7 +74,9 @@ For making the hardware working perfectly we have to follow these instructions:
 
 ![image](https://user-images.githubusercontent.com/43187006/49836424-9c956100-fd70-11e8-9f4e-5fde2299e260.png)
 
-9. And do it similar for the display. Go to Sketch > Include library > Manage library, then search ST7735
+9. And do it similar for the display. Go to Sketch > Include library > Manage library, then search ST7735 and install it.
+
+![image](https://user-images.githubusercontent.com/43187006/49836424-9c956100-fd70-11e8-9f4e-5fde2299e260.png)
 
 
 
