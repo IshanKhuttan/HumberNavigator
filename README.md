@@ -12,7 +12,7 @@
 
 - [Build Materials and Budget](#Build-materials-and-Budget)
 
-- [Time Commitment](#Time-commitment)
+- [Time Commitment](#Time-Commitment)
 
 - [Mechanical Assembly](#Mechanical-Assembly)
 
@@ -41,8 +41,14 @@
  The required for my whole project is just $70, but we need parts kit which we will get in Sem1 for $120. For making the connections on the breadboard some jumper wires are required. And for the PCB you can send the gerber files to the Prototype lab and get it printed, there is no cost for the PCB. For the the case also you cand the files and get it from Prototype lab for free.  
  
  ![new budget](https://user-images.githubusercontent.com/43187006/49832284-360a4600-fd64-11e8-9098-5a0c6e5747ff.PNG)
+ 
+ 
+## Time-Commitment
+This schedule uses a weekly breakdown that follows the CENG 317 class schedule for the fall semester of 2018. This project could be completed in a more compact time frame if the builder so chooses. The schedule is helpful in outlining the overall flow and the order in which each milestone for the project is completed. Orignally the project was completed over a 15 week semester, But for me it took more time and I finished in week14, because I have to redesigned the PCB for atleast 4 times as I could not get the connections right. And then after my PCB was done finally then the case designing took some time as I have to design the case at [MakerCase](http://www.makercase.com) website, the download the file and upload it to the Coral Draw for making the holes and then sent it to the Protoype lab. For getting the right connections wa little bit hard, because I had the arduino(STM32F103C8T6) which is a new, so it took some time to figure out the connections.
+![image](https://user-images.githubusercontent.com/43187006/49834451-69e86a00-fd6a-11e8-9a2d-3260a58b177a.png)
 
 
+## Mechanical-Assembly
 
 
 # HumberNavigator
