@@ -1,6 +1,7 @@
 # BMP280(Barometric Pressure & Altitude Sensor)
 <br />
 ## Table of Contents
+
 - [Introduction](#Introduction)
 
 <br />
