@@ -55,8 +55,27 @@ For making the hardware working perfectly we have to follow these instructions:
 
 3. Then we need a FTDI USB to TTL Serial converter for uploading the code on the STM32 using a usb cable.
 
-4. After making the connections we have to go to File > Examples > Basics > Blink, to get ino files needed for blinking and change the pin number. ![image](https://user-images.githubusercontent.com/43187006/49835951-ec732880-fd6e-11e8-8934-151a5b0cfc7e.png)
+4. After making the connections we have to go to File > Examples > Basics > Blink, to get ino files needed for blinking and change the pin number.
+
+![image](https://user-images.githubusercontent.com/43187006/49835951-ec732880-fd6e-11e8-8934-151a5b0cfc7e.png)
  
+5. If everything is working perfectly, then we are going to make the connections of the sensor(BMP280) and Display(1.8 TFT ST7735
+). 
+
+![image](https://user-images.githubusercontent.com/43187006/49836100-74593280-fd6f-11e8-88d9-2c41508a1bec.png)
+
+6. Then we are going to install the libraries for sensor and display, so that we can upload the sketch on Ardunio.
+
+7. First we will go to Sketch > Include library > Manage library, then search the BMP280 and install it and open the sketch to change the pin numbers and upload it.
+
+![image](https://user-images.githubusercontent.com/43187006/49836401-74a5fd80-fd70-11e8-951a-28e3afa0c9fe.png)
+
+8. The check the readings if they are working properly.
+
+![image](https://user-images.githubusercontent.com/43187006/49836424-9c956100-fd70-11e8-9f4e-5fde2299e260.png)
+
+9. And do it similar for the display. Go to Sketch > Include library > Manage library, then search ST7735
+
 
 
 # HumberNavigator
