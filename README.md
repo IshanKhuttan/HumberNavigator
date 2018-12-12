@@ -16,11 +16,7 @@
 
 - [PCB and Soldering](#Pcb-and-Soldering)
 
-- [Powering Up Device](#powering-up-device)
-
-- [The Software](#the-software)
-
-- [Testing](#testing)
+- [Unit Testing and Power Up](#Unit-testing and Power-up)
 
 - [Finished Product](#finished-product)
 
@@ -34,6 +30,11 @@
  ![image](https://user-images.githubusercontent.com/43187006/49831322-951a8b80-fd61-11e8-95c3-a2f389499f17.png)
  
  ## UML-Diagram
+ 
+ System Diagram
+ 
+ ![image](https://user-images.githubusercontent.com/43187006/49844241-1ee14d80-fd90-11e8-8c42-8077f3fd24d2.png)
+
  
  ## Build-materials-and-Budget
  The required for my whole project is just $70, but we need parts kit which we will get in Sem1 for $120. For making the connections on the breadboard some jumper wires are required. And for the PCB you can send the gerber files to the Prototype lab and get it printed, there is no cost for the PCB. For the the case also you cand the files and get it from Prototype lab for free.  
@@ -96,7 +97,16 @@ Here is the image of Soldering of the Hardware:
 
 ![image](https://user-images.githubusercontent.com/43187006/49841749-ca85a000-fd86-11e8-9753-a9dfe5eb53a6.png)
 
+## Unit-testing and Power-up
+Toget the proper readings from my sensor , I have used the BMP280.ino sketch that we can get after installing the library. And then after using the correct connections we can get the readings as shown below:
 
+![image](https://user-images.githubusercontent.com/43187006/49845270-ff4c2400-fd93-11e8-9de8-a68f33ed6709.png)
+
+
+
+## Production-Testing
+
+For Mass Production there would be no more need to solder the sensor or the PCB manually by hand. The whole soldering process of the sensor can be covered by the use of automated machinery.The whole testing process of the sensor can be shifted from manual to automatic with  a test room designed specifically with the features of changing tempertaure,pressure,and altitude to measure the changes in the reading of the sensor.
 
 # HumberNavigator
 [HomeBoard indexArduino for STM32Projects
