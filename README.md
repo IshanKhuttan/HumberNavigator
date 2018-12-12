@@ -18,9 +18,10 @@
 
 - [Unit Testing and Power Up](#Unit-testing and Power-up)
 
-- [Finished Product](#finished-product)
+- [Production Testing](#Production-testing)
 
-- [Resources](#resources)
+- [Finished Product](#Finished-Product)
+
 
 <br />
 
@@ -99,16 +100,22 @@ Here is the image of Soldering of the Hardware:
 
 ## Unit-testing and Power-up
 Toget the proper readings from my sensor , I have used the [bmp280test.zip](https://github.com/IshanKhuttan/HumberNavigator/files/2670358/bmp280test.zip)
-) sketch that we can get after installing the library. And then after using the correct connections we can get the readings as shown below:
+ sketch that we can get after installing the library. And then after using the correct connections we can get the readings as shown below:
 
 ![image](https://user-images.githubusercontent.com/43187006/49845270-ff4c2400-fd93-11e8-9de8-a68f33ed6709.png)
 
+And here is corel draw file [caseplans.zip](https://github.com/IshanKhuttan/HumberNavigator/files/2670370/caseplans.zip) that I have used for my case.
 
 
-## Production-Testing
+## Production-testing
 
 For Mass Production there would be no more need to solder the sensor or the PCB manually by hand. The whole soldering process of the sensor can be covered by the use of automated machinery.The whole testing process of the sensor can be shifted from manual to automatic with  a test room designed specifically with the features of changing tempertaure,pressure,and altitude to measure the changes in the reading of the sensor.
 
-# HumberNavigator
-[HomeBoard indexArduino for STM32Projects
-Blue Pill Weather Station Display](http://stm32duino.com/viewtopic.php?t=843)
+## Finished-Product
+And here is the final product of the hardware enclosed in case.
+
+![image](https://user-images.githubusercontent.com/43187006/49845837-6bc82280-fd96-11e8-83c1-0bad0a885dd7.png)
+
+![image](https://user-images.githubusercontent.com/43187006/49845940-dd07d580-fd96-11e8-9536-b3b09b58455c.png)
+
+
