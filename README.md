@@ -98,7 +98,7 @@ Here is the image of Soldering of the Hardware:
 ![image](https://user-images.githubusercontent.com/43187006/49841749-ca85a000-fd86-11e8-9753-a9dfe5eb53a6.png)
 
 ## Unit-testing and Power-up
-Toget the proper readings from my sensor , I have used the [BMP280.ino]([bmp280test.zip](https://github.com/IshanKhuttan/HumberNavigator/files/2670358/bmp280test.zip)
+Toget the proper readings from my sensor , I have used the [bmp280test.zip](https://github.com/IshanKhuttan/HumberNavigator/files/2670358/bmp280test.zip)
 ) sketch that we can get after installing the library. And then after using the correct connections we can get the readings as shown below:
 
 ![image](https://user-images.githubusercontent.com/43187006/49845270-ff4c2400-fd93-11e8-9de8-a68f33ed6709.png)
