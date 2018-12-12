@@ -16,7 +16,7 @@
 
 - [PCB and Soldering](#Pcb-and-Soldering)
 
-- [Unit Testing and Power Up](#Unit-testing and Power-up)
+- [Unit Testing and Power Up](#Unit-testing-and-Power-up)
 
 - [Production Testing](#Production-testing)
 
@@ -31,6 +31,10 @@
  ![image](https://user-images.githubusercontent.com/43187006/49831322-951a8b80-fd61-11e8-95c3-a2f389499f17.png)
  
  ## UML-Diagram
+ UML Diagram
+
+![image](https://user-images.githubusercontent.com/43187006/49846052-64eddf80-fd97-11e8-9564-7145094cbe46.png)
+
  
  System Diagram
  
@@ -98,7 +102,7 @@ Here is the image of Soldering of the Hardware:
 
 ![image](https://user-images.githubusercontent.com/43187006/49841749-ca85a000-fd86-11e8-9753-a9dfe5eb53a6.png)
 
-## Unit-testing and Power-up
+## Unit-testing-and-Power-up
 Toget the proper readings from my sensor , I have used the [bmp280test.zip](https://github.com/IshanKhuttan/HumberNavigator/files/2670358/bmp280test.zip)
  sketch that we can get after installing the library. And then after using the correct connections we can get the readings as shown below:
 
