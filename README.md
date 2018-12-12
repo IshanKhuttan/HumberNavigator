@@ -14,7 +14,7 @@
 
 - [Mechanical Assembly](#Mechanical-Assembly)
 
-- [PCB and Soldering](#pcb-and-soldering)
+- [PCB and Soldering](#Pcb-and-Soldering)
 
 - [Powering Up Device](#powering-up-device)
 
@@ -51,9 +51,9 @@ For making the hardware working perfectly we have to follow these instructions:
 
 1. First we have to blink the LED of STM32 in order to check that the arduino is working properly.
 
-2. For Uploading the codes we have to download the Arduino IDE. Then go to Tools > Boards > Boards Manager, the search the STM32 and install it. ![image](https://user-images.githubusercontent.com/43187006/49835442-30fdc480-fd6d-11e8-82b2-bf26bf93af16.png)
+2. For Uploading the Blink sketch we have to download the Arduino IDE. Then go to Tools > Boards > Boards Manager, the search the STM32 and install it. ![image](https://user-images.githubusercontent.com/43187006/49835442-30fdc480-fd6d-11e8-82b2-bf26bf93af16.png)
 
-3. Then we need a FTDI USB to TTL Serial converter for uploading the code on the STM32 using a usb cable.
+3. Then we need a FTDI USB to TTL Serial converter for uploading the sketch on the STM32 using a usb cable.
 
 4. After making the connections we have to go to File > Examples > Basics > Blink, to get ino files needed for blinking and change the pin number.
 
@@ -74,9 +74,27 @@ For making the hardware working perfectly we have to follow these instructions:
 
 ![image](https://user-images.githubusercontent.com/43187006/49836424-9c956100-fd70-11e8-9f4e-5fde2299e260.png)
 
-9. And do it similar for the display. Go to Sketch > Include library > Manage library, then search ST7735 and install it.
+9. And do it similar for the display. Go to Sketch > Include library > Manage library, then search ST7735 and install it. After change the pin numbers.
 
-![image](https://user-images.githubusercontent.com/43187006/49836424-9c956100-fd70-11e8-9f4e-5fde2299e260.png)
+![image](https://user-images.githubusercontent.com/43187006/49839301-7fff2600-fd7c-11e8-9d22-e43f2feaa61e.png)
+
+Here are the connections on the breadboard that I have used for the Project.
+
+![image](https://user-images.githubusercontent.com/43187006/49839420-f56af680-fd7c-11e8-9fe9-95f6f0e612ac.png)
+
+
+## PCB-and-Soldering
+For the PCB it was difficult part as there were lot of connections in PCB, while desinging the PCB there were lots of shorts in it. To fix the shorts I have to redesigned the PCB atleast Four times. Soldering was easy to do , but still we have to be carefull while doing the soldering we can easily burn our sensor. After designing the PCB you should send the gerber files to the prototype lab for printing the PCB and then solder the header pins to the PCB.
+Here is image of the PCB and Fritzing. 
+![image](https://user-images.githubusercontent.com/43187006/49840059-e3d71e00-fd7f-11e8-8633-3832877d8add.png)
+
+![image](https://user-images.githubusercontent.com/43187006/49840089-06693700-fd80-11e8-8b57-a5effe465862.png)
+
+Here is the image of Soldering of the Hardware:
+
+![image](https://user-images.githubusercontent.com/43187006/49841300-12a3c300-fd85-11e8-83b3-c1ddfd856828.png)
+
+![image](https://user-images.githubusercontent.com/43187006/49841749-ca85a000-fd86-11e8-9753-a9dfe5eb53a6.png)
 
 
 
